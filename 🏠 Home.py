@@ -731,7 +731,7 @@ def main():
                     border-radius: 8px; padding: 1.5rem; margin: 2rem 0 ;direction: rtl; text-align: right;">
             <h4 style="color: var(--dark-text-warm); margin-top: 0;">💡 تعزيز تجربة اللوحة</h4>
             <p style="color: var(--dark-text-secondary); margin: 0.5rem 0;">
-                بعد قراءة قسم "عنّي"، ضع في اعتبارك أن تحديد أهدافك واحتياجاتك بشكل دقيق يجعل هذه اللوحة أكثر فائدة.
+                ضع في اعتبارك أن تحديد أهدافك واحتياجاتك بشكل دقيق يجعل هذه اللوحة أكثر فائدة.
             </p>
             <ul style="color: var(--dark-text-secondary); padding-left: 1.2rem;">
                 <li>توضيح أهداف عملك والمقاييس الأساسية التي تهمك</li>
@@ -751,7 +751,7 @@ def main():
                     border-radius: 8px; padding: 1.5rem; margin: 2rem 0;">
             <h4 style="color: var(--dark-text-warm); margin-top: 0;">💡 Dashboard Enhancement</h4>
             <p style="color: var(--dark-text-secondary); margin: 0.5rem 0;">
-                After reading the "About" section, keep in mind that specifying your goals and needs will make this dashboard more valuable.
+                keep in mind that specifying your goals and needs will make this dashboard more valuable.
             </p>
             <ul style="color: var(--dark-text-secondary); padding-left: 1.2rem;">
                 <li>Clarify your business goals and key metrics that matter most</li>
