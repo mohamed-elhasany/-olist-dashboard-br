@@ -715,7 +715,9 @@ def main():
                     🔗 <b>Portfolio:</b> 
                     <a href="https://github.com/mohamed-elhasany" target="_blank" style="color: var(--dark-text-cool); text-decoration: none;">GitHub</a> •
                     <a href="https://khamsat.com/user/elhasany_123" target="_blank" style="color: var(--dark-text-cool); text-decoration: none;">Khamsat</a> •
-                    <a href="https://www.freelancer.com/u/mohamede0226" target="_blank" style="color: var(--dark-text-cool); text-decoration: none;">Freelancer</a>
+                    <a href="https://khamsat.com/user/elhasany_123" target="_blank" style="color: var(--dark-text-cool); text-decoration: none;">Khamsat</a> •
+                    <a href="https://www.freelancer.com/u/mohamede0226" target="_blank" style="color: var(--dark-text-cool); text-decoration: none;">Freelancer</a> •
+                    <a href="https://cute-sawine-f485eb.netlify.app/" target="_blank" style="color: var(--dark-text-cool); text-decoration: none;">My Portfolio site</a> •
                 </p>
             </div>
             <p style="color: var(--dark-text-secondary); margin-top: 1rem; font-size: 0.9rem;">
