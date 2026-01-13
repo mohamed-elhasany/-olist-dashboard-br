@@ -140,8 +140,8 @@ def create_vendor_concentration_chart(vendor_all):
     ))
     
     # Calculate Gini coefficient (approximation)
-    lorenz_area = np.trapz(sorted_vendors['cumulative_pct'], dx=1)
-    perfect_area = np.trapz(perfect_equality, dx=1)
+    lorenz_area = np.trapezoid(sorted_vendors['cumulative_pct'], dx=1)
+    perfect_area = np.trapezoid(perfect_equality, dx=1)
     gini_coefficient = (perfect_area - lorenz_area) / perfect_area if perfect_area > 0 else 0
     
     fig.add_annotation(
