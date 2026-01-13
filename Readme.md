@@ -164,7 +164,11 @@ pip install -r requirements.txt
 - **Role**: General Data Analyst
 - **Email**: elhasanymohamed123@gmail.com
 
-**Professional Profiles**: GitHub, Khamsat, Freelancer
+**Professional Profiles:**
+
+- [GitHub](https://github.com/mohamed-elhasany)
+- [Khamsat](https://khamsat.com/user/elhasany_123)
+- [Freelancer](https://www.freelancer.com/u/mohamede0226)
 
 **Services Offered**: Custom dashboard development, e-commerce analytics consulting, data pipeline implementation, business intelligence solutions
 
